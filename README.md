@@ -2,6 +2,8 @@
 
 A curated list of the hottest and most fresh resources to become a MEV chad.
 
+[The 0 to 1 Guide for MEV](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
+
 ## Obfuscation
 
 - [Smart Contract Obfuscation Techniques](https://degatchi.com/articles/smart-contract-obfuscation)
@@ -17,4 +19,3 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [Huff challenge #3](https://twitter.com/huff_language/status/1560750533811376128)
 - [Huff challenge #4](https://twitter.com/huff_language/status/1583894073487654913)
 - [Huff challenge #5](https://twitter.com/huff_language/status/1586401774927126528)
-  
