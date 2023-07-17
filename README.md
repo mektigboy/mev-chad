@@ -3,7 +3,7 @@
 A curated list of the hottest and most fresh resources to become a MEV chad.
 
 - [What is MEV?](https://research.paradigm.xyz/MEV#what-is-mev)
-- [The 0 to 1 Guide for MEV](https://calblockchain.mirror.xyz/c56)CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
+- [The 0 to 1 Guide for MEV](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
 - [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
 
 ## Obfuscation
