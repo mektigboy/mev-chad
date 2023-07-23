@@ -8,6 +8,7 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
 
 - [Unpacking ERC-4337](https://frontier.tech/unpacking-erc-4337)
+- [A new game in town](https://frontier.tech/a-new-game-in-town)
 
 ## Obfuscation
 
