@@ -7,8 +7,14 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
 - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
 
+## Frontier Research
+
 - [Unpacking ERC-4337](https://frontier.tech/unpacking-erc-4337)
-- [A new game in town](https://frontier.tech/a-new-game-in-town)
+- [A New Game in Town](https://frontier.tech/a-new-game-in-town)
+- [Beyond Extraction: The Role of Block Building in the Future of Ethereum](https://frontier.tech/beyond-extraction)
+- [The Orderflow Auction Design Space](https://frontier.tech/the-orderflow-auction-design-space)
+- [The NFT MEV Landscape](https://frontier.tech/the-nft-mev-landscape)
+
 
 ## Obfuscation
 
