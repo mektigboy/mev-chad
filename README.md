@@ -18,7 +18,7 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 
 ## Obfuscation
 
-- (Smart Contract Obfuscation Techniques](https://degatchi.com/articles/smart-contract-obfuscation)
+- [Smart Contract Obfuscation Techniques](https://degatchi.com/articles/smart-contract-obfuscation)
 
 ## Memware
 
