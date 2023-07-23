@@ -14,7 +14,7 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [Beyond Extraction: The Role of Block Building in the Future of Ethereum](https://frontier.tech/beyond-extraction)
 - [The Orderflow Auction Design Space](https://frontier.tech/the-orderflow-auction-design-space)
 - [The NFT MEV Landscape](https://frontier.tech/the-nft-mev-landscape)
-
+- [Optimistic Relays and Where to Find Them](https://frontier.tech/optimistic-relays-and-where-to-find-them)
 
 ## Obfuscation
 
