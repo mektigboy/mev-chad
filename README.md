@@ -6,6 +6,7 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The 0 to 1 Guide for MEV](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
 - [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
 - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
+- [Builder Dominance and Searcher Dependence](https://frontier.tech/builder-dominance-and-searcher-dependence)
 
 ## Frontier Research
 
