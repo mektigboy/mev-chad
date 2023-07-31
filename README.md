@@ -19,6 +19,8 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [Exploration of MEV Latencies](https://frontier.tech/exploration-of-mev-latencies)
 - [The Next Steps in DEX Design](https://frontier.tech/the-next-steps-in-dex-design)
 - [Builder Dominance and Searcher Dependence](https://frontier.tech/builder-dominance-and-searcher-dependence)
+- [A Tale of Two Arbitrages](https://frontier.tech/a-tale-of-two-arbitrages)
+- [Opportunities and Considerations of Ethereum’s Blockspace Future](https://frontier.tech/ethereums-blockspace-future)
 
 ## Obfuscation
 
