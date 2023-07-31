@@ -17,6 +17,8 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The NFT MEV Landscape](https://frontier.tech/the-nft-mev-landscape)
 - [Optimistic Relays and Where to Find Them](https://frontier.tech/optimistic-relays-and-where-to-find-them)
 - [Exploration of MEV Latencies](https://frontier.tech/exploration-of-mev-latencies)
+- [The Next Steps in DEX Design](https://frontier.tech/the-next-steps-in-dex-design)
+- [Builder Dominance and Searcher Dependence](https://frontier.tech/builder-dominance-and-searcher-dependence)
 
 ## Obfuscation
 
