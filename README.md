@@ -6,9 +6,11 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The 0 to 1 Guide for MEV](https://calblockchain.mirror.xyz/c56CHOu-Wow_50qPp2Wlg0rhUvdz1HLbGSUWlB_KX9o)
 - [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
 - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
-- [Builder Dominance and Searcher Dependence](https://frontier.tech/builder-dominance-and-searcher-dependence)
+
+## Medium
   
 - [Using REVM to Build a Sandwich Bot](https://medium.com/@solidquant/why-i-think-everyone-should-use-revm-rust-evm-art-of-mempool-watching-part-2-c67308d5cf03)
+- [Create a Cryptocurrency Bot for Arbitrage and MEV](https://xthemadgenius.medium.com/create-a-cryptocurrency-bot-for-arbitrage-and-mev-a2fcf3edbabe)
 
 ## Frontier Research
 
