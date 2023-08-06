@@ -7,6 +7,8 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [State of research: increasing censorship resistance of transactions under proposer/builder separation (PBS)](https://notes.ethereum.org/@vbuterin/pbs_censorship_resistance)
 - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
 - [Builder Dominance and Searcher Dependence](https://frontier.tech/builder-dominance-and-searcher-dependence)
+  
+- [Using REVM to Build a Sandwich Bot](https://medium.com/@solidquant/why-i-think-everyone-should-use-revm-rust-evm-art-of-mempool-watching-part-2-c67308d5cf03)
 
 ## Frontier Research
 
