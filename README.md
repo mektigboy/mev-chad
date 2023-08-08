@@ -8,9 +8,12 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
 
 ## Medium
-  
-- [Using REVM to Build a Sandwich Bot](https://medium.com/@solidquant/why-i-think-everyone-should-use-revm-rust-evm-art-of-mempool-watching-part-2-c67308d5cf03)
+- [The MEV Roadmap Everyone’s Been Waiting For](https://medium.com/@solidquant/the-mev-roadmap-everyones-been-waiting-for-429b5963cb0c)
 - [Create a Cryptocurrency Bot for Arbitrage and MEV](https://xthemadgenius.medium.com/create-a-cryptocurrency-bot-for-arbitrage-and-mev-a2fcf3edbabe)
+
+### SolidQuant
+- [Using REVM to Build a Sandwich Bot](https://medium.com/@solidquant/why-i-think-everyone-should-use-revm-rust-evm-art-of-mempool-watching-part-2-c67308d5cf03)
+- https://medium.com/@solidquant/the-mev-roadmap-everyones-been-waiting-for-429b5963cb0c)
 
 ## Frontier Research
 
