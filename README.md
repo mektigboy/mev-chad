@@ -8,12 +8,14 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
 
 ## Medium
-- [The MEV Roadmap Everyone’s Been Waiting For](https://medium.com/@solidquant/the-mev-roadmap-everyones-been-waiting-for-429b5963cb0c)
 - [Create a Cryptocurrency Bot for Arbitrage and MEV](https://xthemadgenius.medium.com/create-a-cryptocurrency-bot-for-arbitrage-and-mev-a2fcf3edbabe)
 
 ### SolidQuant
+- [The MEV Roadmap Everyone’s Been Waiting For](https://medium.com/@solidquant/the-mev-roadmap-everyones-been-waiting-for-429b5963cb0c)
 - [Using REVM to Build a Sandwich Bot](https://medium.com/@solidquant/why-i-think-everyone-should-use-revm-rust-evm-art-of-mempool-watching-part-2-c67308d5cf03)
-- https://medium.com/@solidquant/the-mev-roadmap-everyones-been-waiting-for-429b5963cb0c)
+- [How I Spend My Days Mempool Watching (Part 1): Transaction Prediction Through EVM Tracing](https://medium.com/@solidquant/how-i-spend-my-days-mempool-watching-part-1-transaction-prediction-through-evm-tracing-77f4c99207f)
+- [How I Built My First MEV Arbitrage Bot: Introducing Whack-A-Mole](https://medium.com/@solidquant/how-i-built-my-first-mev-arbitrage-bot-introducing-whack-a-mole-66d91657152e)
+- [How to Use Yul in Your MEV Project](https://medium.com/@solidquant/up-your-mev-game-by-using-assembly-93c31b06cf96)
 
 ## Frontier Research
 
