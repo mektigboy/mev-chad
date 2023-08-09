@@ -19,6 +19,7 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [What I Learned After a Month of Intensive MEV Bot Study](https://medium.com/@solidquant/what-i-learned-from-a-month-of-intensive-mev-bot-study-38a4e357da0b)
 - [Clone Coding Popular MEV Bot Projects](https://medium.com/@solidquant/clone-coding-popular-mev-bot-projects-3888c71b02b3)
 - [First Key to Building MEV Bots: The Simulation Engine](https://medium.com/@solidquant/first-key-to-building-mev-bots-your-simulation-engine-c9c0420d2e1)
+- [I Decided to Build My Own MEV Bot. Here’s How I’m Doing It](https://medium.com/@solidquant/i-decided-to-build-my-own-mev-bot-heres-how-i-m-doing-it-74c3419da49a)
 
 ## Frontier Research
 
