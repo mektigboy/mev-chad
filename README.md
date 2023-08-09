@@ -16,6 +16,9 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [How I Spend My Days Mempool Watching (Part 1): Transaction Prediction Through EVM Tracing](https://medium.com/@solidquant/how-i-spend-my-days-mempool-watching-part-1-transaction-prediction-through-evm-tracing-77f4c99207f)
 - [How I Built My First MEV Arbitrage Bot: Introducing Whack-A-Mole](https://medium.com/@solidquant/how-i-built-my-first-mev-arbitrage-bot-introducing-whack-a-mole-66d91657152e)
 - [How to Use Yul in Your MEV Project](https://medium.com/@solidquant/up-your-mev-game-by-using-assembly-93c31b06cf96)
+- [What I Learned After a Month of Intensive MEV Bot Study](https://medium.com/@solidquant/what-i-learned-from-a-month-of-intensive-mev-bot-study-38a4e357da0b)
+- [Clone Coding Popular MEV Bot Projects](https://medium.com/@solidquant/clone-coding-popular-mev-bot-projects-3888c71b02b3)
+- [First Key to Building MEV Bots: The Simulation Engine](https://medium.com/@solidquant/first-key-to-building-mev-bots-your-simulation-engine-c9c0420d2e1)
 
 ## Frontier Research
 
