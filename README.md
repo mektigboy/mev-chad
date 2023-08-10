@@ -54,3 +54,7 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 ## Analytics
 
 - [MEV-Boost Analytics](https://www.relayscan.io/overview?t=7d)
+
+## Other Side of The Coin
+
+- [The Myth of Good Arbitrage](https://www.propellerheads.xyz/blog/the-myth-of-good-arbitrage)
