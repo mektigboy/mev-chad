@@ -58,4 +58,5 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 ## Other Side of The Coin
 
 - [The Myth of Good Arbitrage](https://www.propellerheads.xyz/blog/the-myth-of-good-arbitrage)
-- [MEV is Dead, Long live MEV!](https://www.propellerheads.xyz/blog/mev-is-dead-long-live-mev)
+- [MEV is Dead, Long Live MEV!](https://www.propellerheads.xyz/blog/mev-is-dead-long-live-mev)
+- [The Next Steps in DEX Design](https://www.propellerheads.xyz/blog/the-next-steps-in-dex-design)
