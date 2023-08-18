@@ -8,9 +8,11 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The Hidden World of Ethereum Snipers](https://www.samchepal.com/the-hidden-world-of/)
 
 ## Medium
+
 - [Create a Cryptocurrency Bot for Arbitrage and MEV](https://xthemadgenius.medium.com/create-a-cryptocurrency-bot-for-arbitrage-and-mev-a2fcf3edbabe)
 
 ### SolidQuant
+
 - [The MEV Roadmap Everyone’s Been Waiting For](https://medium.com/@solidquant/the-mev-roadmap-everyones-been-waiting-for-429b5963cb0c)
 - [Using REVM to Build a Sandwich Bot](https://medium.com/@solidquant/why-i-think-everyone-should-use-revm-rust-evm-art-of-mempool-watching-part-2-c67308d5cf03)
 - [How I Spend My Days Mempool Watching (Part 1): Transaction Prediction Through EVM Tracing](https://medium.com/@solidquant/how-i-spend-my-days-mempool-watching-part-1-transaction-prediction-through-evm-tracing-77f4c99207f)
@@ -20,6 +22,10 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [Clone Coding Popular MEV Bot Projects](https://medium.com/@solidquant/clone-coding-popular-mev-bot-projects-3888c71b02b3)
 - [First Key to Building MEV Bots: The Simulation Engine](https://medium.com/@solidquant/first-key-to-building-mev-bots-your-simulation-engine-c9c0420d2e1)
 - [I Decided to Build My Own MEV Bot. Here’s How I’m Doing It](https://medium.com/@solidquant/i-decided-to-build-my-own-mev-bot-heres-how-i-m-doing-it-74c3419da49a)
+
+### Block Magnates
+
+- [Building an arbitrage bot: Introduction to MEV bots (article 0/n)](https://medium.com/block-magnates/building-an-arbitrage-bot-introduction-to-mev-bots-article-0-n-cb439da58651)
 
 ## Frontier Research
 
@@ -61,3 +67,10 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The Next Steps in DEX Design](https://www.propellerheads.xyz/blog/the-next-steps-in-dex-design)
 - [Arbitrage Loss and How to Fix It](https://www.propellerheads.xyz/blog/fix-amm-arbitrage-loss-lvr)
 - [MEV is Dead, Long Live MEV!](https://www.propellerheads.xyz/blog/mev-is-dead-long-live-mev)
+- 
+
+## Codebases
+
+- [mev-bundle-generator](https://github.com/0xAlcibiades/mev-bundle-generator)
+- [rusty-sando](https://github.com/mouseless-eth/rusty-sando)
+- [amm-rs](https://github.com/darkforestry/amms-rs)
