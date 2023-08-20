@@ -22,6 +22,7 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [Clone Coding Popular MEV Bot Projects](https://medium.com/@solidquant/clone-coding-popular-mev-bot-projects-3888c71b02b3)
 - [First Key to Building MEV Bots: The Simulation Engine](https://medium.com/@solidquant/first-key-to-building-mev-bots-your-simulation-engine-c9c0420d2e1)
 - [I Decided to Build My Own MEV Bot. Here’s How I’m Doing It](https://medium.com/@solidquant/i-decided-to-build-my-own-mev-bot-heres-how-i-m-doing-it-74c3419da49a)
+- [MEV Templates Written in Python, Javascript, and Rust](https://medium.com/@solidquant/mev-templates-written-in-python-javascript-and-rust-ddd3d324d709)
 
 ### Block Magnates
 
@@ -67,7 +68,6 @@ A curated list of the hottest and most fresh resources to become a MEV chad.
 - [The Next Steps in DEX Design](https://www.propellerheads.xyz/blog/the-next-steps-in-dex-design)
 - [Arbitrage Loss and How to Fix It](https://www.propellerheads.xyz/blog/fix-amm-arbitrage-loss-lvr)
 - [MEV is Dead, Long Live MEV!](https://www.propellerheads.xyz/blog/mev-is-dead-long-live-mev)
-- 
 
 ## Codebases
 
